@@ -6,7 +6,7 @@
 #    By: cmieuzet <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/01 18:21:27 by cmieuzet          #+#    #+#              #
-#    Updated: 2022/07/05 15:22:56 by cmieuzet         ###   ########.fr        #
+#    Updated: 2022/07/05 16:21:16 by cmieuzet         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@ NAME	= libft.a
 
 CFLAGS	= -Wall -Wextra -Werror -I includes
 
-CC = gcc
+CC	= gcc
 
 SRCS	=	Libft/ft_isalpha.c \
 	  Libft/ft_isdigit.c \
